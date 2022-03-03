@@ -1,4 +1,4 @@
-name: islr
+name: bk-islr
 channels:
   - defaults
 dependencies:
